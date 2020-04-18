@@ -1,0 +1,8 @@
+.filters{
+    font-size: small;
+} 
+
+.filters input , .filters button{
+    border-radius: 0;
+}
+
